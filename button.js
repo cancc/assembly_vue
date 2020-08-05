@@ -3,3 +3,4 @@ let component = Vue.component('g-button', {
         <button class="g-button">按钮</button>
     `
 });
+
